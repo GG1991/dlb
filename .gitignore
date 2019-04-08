@@ -37,3 +37,6 @@ py-compile
 *.pyc
 build*/
 mpi_omp_pils
+workspace
+hpctoolkit*
+*hpcstruct
